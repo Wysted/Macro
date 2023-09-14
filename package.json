@@ -1,11 +1,11 @@
 {
-  "name": "electron-vite-react-js",
+  "name": "Macro",
   "version": "1.0.0",
   "main": "dist-electron/main/index.js",
-  "description": "Electron Vite React boilerplate with JavaScript.",
-  "author": "Sayantan Biswas",
+  "description": "Macro con Vite, React y Electron",
+  "author": "Wysted",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "debug": {
     "env": {
       "VITE_DEV_SERVER_URL": "http://127.0.0.1:7777/"
